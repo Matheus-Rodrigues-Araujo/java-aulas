@@ -5,7 +5,7 @@ public class Matrizes_exemplo2 {
         Scanner sc = new Scanner(System.in);
         int count = 0;
 
-        System.out.print("Número linhas x colunas: ");
+        System.out.print("Lines x Columns: ");
         int lines = sc.nextInt();
         int columns = sc.nextInt();
 
