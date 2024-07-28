@@ -6,7 +6,7 @@ import entities.enums.WorkerLevel;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class Main {
+public class Composition_Exercise1 {
     public static void main(String[] args) {
         try {
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");

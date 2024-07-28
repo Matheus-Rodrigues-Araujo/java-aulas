@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Matrizes_exemplo2 {
+public class Array_Exercise2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int count = 0;
