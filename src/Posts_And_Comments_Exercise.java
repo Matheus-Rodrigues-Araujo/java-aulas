@@ -18,7 +18,7 @@ public class Posts_And_Comments_Exercise {
             Comment p2_c1 = new Comment("Enyoy!");
             Comment p2_c2 = new Comment("Visit Times Square! It's pretty cool!");
 
-            Post p2 = new Post(sdf.parse("12/05/2024 18:14:12"), "Traveling to New York City!", "I'll be learning about the culture", 524);
+        Post p2 = new Post(sdf.parse("12/05/2024 18:14:12"), "Traveling to New York City!", "I'll be learning about the culture", 524);
             p2.addComment(p2_c1);
             p2.addComment(p2_c2);
 
